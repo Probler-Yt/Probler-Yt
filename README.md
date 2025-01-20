@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Probler-Yt
-- 👀 I’m interested in making applications for fun
-- 🌱 I’m currently learning WPF, WebDev due to my programing course
-- 💞️ I’m looking to collaborate on nothing right now but if you whant i can try and help you and maybe learn things on the way
-- 📫 How to reach me email me on modymahjoub62@gmail.com however im more active on discord my username is Probler#1420
-
-<!---
-Probler-Yt/Probler-Yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Mohamed "Al Amine" Mahjoub
+About Me
+🚗 Passionate about technology and innovation in the automotive industry, with a strong interest in engineering and software development.
+🛠️ I enjoy developing applications and working on creative solutions to technical challenges.
+🎓 Currently pursuing a degree in Mechanical Engineering, with a focus on integrating software solutions into engineering workflows.
+💻 Software developer at Macanista, a humanitarian and robotics company.
+🤝 Open to collaborations on exciting projects—always eager to expand my skill set and knowledge.
+📬 Reach out via email: modymahjoub62@gmail.com, but I’m more active on Discord: @Probler
